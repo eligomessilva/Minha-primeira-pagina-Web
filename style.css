@@ -1,0 +1,51 @@
+#batata{   
+    text-align: center; 
+    color: crimson; 
+    font-style: italic; 
+    background-color: darkkhaki; 
+    font: 50pt sans-serif;
+    border: 5px solid blue;
+  }
+  
+  #casa{
+      color: darkred;
+      font: large;
+      font-size: 30pt;
+      text-align: center;
+      background-color: rgb(46, 128, 139);
+      border: 5px solid blue;
+  
+
+ }
+  
+  
+  #titulo{text-align: center; 
+    color: crimson; 
+    font-style: italic; 
+    background-color: darkkhaki; 
+    font: 50pt sans-serif;
+    border: 5px solid blue 
+ 
+ }
+ #bebe{text-decoration: cyan;
+
+ }
+ #nenem {
+   left: 50%;
+   position: relative;
+   
+ }
+ #caixa {
+   margin-top: -220px;
+ }
+ 
+ #lute {
+font-size: 60pt;
+
+ }
+
+ #unicos {
+
+  font-size: 30pt;
+ }
+
